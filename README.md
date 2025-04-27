@@ -2,7 +2,7 @@ EV Bik-E 🚲⚡
   Welcome to EV Bik-E — an innovative platform showcasing the future of electric bikes (EV bikes).
   This website is designed to introduce users to the advantages, features, and sustainability of electric biking.
 
-🔗 Live Website: evbik-e.netlify.app
+🔗 Live Website: https://evbik-e.netlify.app/
 
 🌟 Features
   Home Page: Engaging introduction to EV biking with a clean, modern design.
@@ -26,7 +26,7 @@ EV Bik-E 🚲⚡
   
   Netlify (for deployment)
   
-📸 Screenshots
+📸 DEMO
 
 
 https://github.com/user-attachments/assets/c7388cec-a507-40df-a641-458023283874
